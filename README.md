@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Profile Views](https://komarev.com/ghpvc/?username=husnainfareed&color=blue&style=plastic)](https://github.com/husnainfareed)
 <!--
 **husnainfareed/husnainfareed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
