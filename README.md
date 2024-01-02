@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hussnain Fareed</h1>
 <h3 align="center">A FullStack Developer in 🇩🇪 from 🇵🇰</h3>
 <p align="left"> <a href="https://twitter.com/huxna1n" target="blank"><img src="https://img.shields.io/twitter/follow/huxna1n?logo=twitter&style=for-the-badge" alt="huxna1n" /></a> </p>
-
+[![Profile Views](https://komarev.com/ghpvc/?username=husnainfareed&color=blue&style=plastic)](https://github.com/husnainfareed)
 <!--
 **husnainfareed/husnainfareed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
