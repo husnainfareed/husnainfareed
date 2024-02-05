@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Hussnain here</h1>
-<h3 align="center">CS Student @ RWTH | An Average Developer</h3>
+<h3 align="center">Student @ RWTH | Full-Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainfareed&label=Profile%20views&color=0e75b6&style=flat" alt="husnainfareed" /> </p>
 <p align="left"> <a href="https://twitter.com/codingducky" target="blank"><img src="https://img.shields.io/twitter/follow/codingducky?logo=twitter&style=for-the-badge" alt="codingducky" /></a> </p>
 <!--
