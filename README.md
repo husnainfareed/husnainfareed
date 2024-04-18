@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋 Hussnain here</h1>
-<h3 align="center">Student @ RWTH | Full-Stack Developer</h3>
+
+<h3 align="center">Hussnain Fareed • RWTH 🎓| Full Stack Developer 💻 </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainfareed&label=Profile%20views&color=0e75b6&style=flat" alt="husnainfareed" /> </p>
 
 
 ## 👋About Me:
 
-* 💻 &nbsp; Working as Full Stack Engineer.
+  * 💻 &nbsp; Working as Full Stack Developer.
   * 💬 &nbsp; Current Stack `JS/TS, React, Redux, Next, GraphQL, Node, Firebase, MongoDB,  etc`.
   * 📖 &nbsp; Learning about `Microservices, RxDart, AWS`
   * 👀 &nbsp; Looking forward to working with SaaS Startups.
