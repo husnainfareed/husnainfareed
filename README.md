@@ -18,9 +18,9 @@
   * ...
  -->
 <br />
-
+<!--
 <p align="left"> <a href="https://twitter.com/codingducky" target="blank"><img src="https://img.shields.io/twitter/follow/codingducky?logo=twitter&style=for-the-badge" alt="codingducky" /></a> </p>
-
+-->
 <!--
 **husnainfareed/husnainfareed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
