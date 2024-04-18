@@ -8,7 +8,7 @@
 
   * 💻 &nbsp; Working as Full Stack Developer.
   * 💬 &nbsp; Current Stack `JS/TS, React, Redux, Next, GraphQL, Node, Firebase, MongoDB,  etc`.
-  * 📖 &nbsp; Learning about `Microservices, RxDart, AWS`
+  * 📖 &nbsp; Learning about `Microservices, AWS`
   * 👀 &nbsp; Looking forward to working with SaaS Startups.
   * 🤝 &nbsp; Contribute to Open Source Projects
 
