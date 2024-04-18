@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋 Hussnain here</h1>
 <h3 align="center">Student @ RWTH | Full-Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainfareed&label=Profile%20views&color=0e75b6&style=flat" alt="husnainfareed" /> </p>
-<p align="left"> <a href="https://twitter.com/codingducky" target="blank"><img src="https://img.shields.io/twitter/follow/codingducky?logo=twitter&style=for-the-badge" alt="codingducky" /></a> </p>
+
 
 ## 👋About Me:
 
 -🔭 Currently, I am working on improving my **frontend skills**.<br>- 🌱 I am currently learning **NextJS**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at harsh12codes@gmail.com.<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun Fact: I love playing **video games**.<br><br>
 [![](https://visitcount.itsvg.in/api?id=harsh12codes&icon=0&color=0)](https://visitcount.itsvg.in) 
+
+<p align="left"> <a href="https://twitter.com/codingducky" target="blank"><img src="https://img.shields.io/twitter/follow/codingducky?logo=twitter&style=for-the-badge" alt="codingducky" /></a> </p>
 
 <!--
 **husnainfareed/husnainfareed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
