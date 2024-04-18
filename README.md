@@ -5,8 +5,19 @@
 
 ## 👋About Me:
 
--🔭 Currently, I am working on improving my **frontend skills**.<br>- 🌱 I am currently learning **NextJS**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at hey@hussnain.xyz<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun Fact: I love playing **video games**.<br><br>
-[![](https://visitcount.itsvg.in/api?id=harsh12codes&icon=0&color=0)](https://visitcount.itsvg.in) 
+* 💻 &nbsp; Working as Full Stack Engineer.
+  * 💬 &nbsp; Current Stack `JS/TS, React, Redux, Next, GraphQL, Node, Firebase, MongoDB,  etc`.
+  * 📖 &nbsp; Learning about `Microservices, RxDart, AWS`
+  * 👀 &nbsp; Looking forward to working with SaaS Startups.
+  * 🤝 &nbsp; Contribute to Open Source Projects
+
+<!-- ### Goals 2022:
+  * Committing Daily.
+  * Reading one book a month.
+  * Writing two blogs a month.
+  * ...
+ -->
+<br />
 
 <p align="left"> <a href="https://twitter.com/codingducky" target="blank"><img src="https://img.shields.io/twitter/follow/codingducky?logo=twitter&style=for-the-badge" alt="codingducky" /></a> </p>
 
