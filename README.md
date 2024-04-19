@@ -6,7 +6,7 @@
 
 ## About Me:
 
-  * 💻 &nbsp; Working as Full Stack Developer.
+  * 💻 &nbsp; Working as Full Stack Developer with focus on Frontend.
   * 💬 &nbsp; Current Stack `JS/TS, React, Redux, Next, GraphQL, Node, Firebase, MongoDB,  etc`.
   * 📖 &nbsp; Learning about `Microservices, AWS`
   * 👀 &nbsp; Looking forward to working with SaaS Startups.
