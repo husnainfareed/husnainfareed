@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainfareed&label=Profile%20views&color=0e75b6&style=flat" alt="husnainfareed" /> </p>
 
 
-## 👋About Me:
+## About Me 🀄️:
 
   * 💻 &nbsp; Working as Full Stack Developer.
   * 💬 &nbsp; Current Stack `JS/TS, React, Redux, Next, GraphQL, Node, Firebase, MongoDB,  etc`.
