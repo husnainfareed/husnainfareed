@@ -8,9 +8,8 @@
 
   * 💻 &nbsp; Working as Full Stack Developer with focus on Frontend.
   * 💬 &nbsp; Current Stack `JS/TS, React, Next, GraphQL, Node, Firebase, MongoDB,  etc`.
-  * 📖 &nbsp; Writing about tech and my experience on [Medium](https://hussnainfareed.medium.com/).
-  * 🤝 &nbsp; Contribute to Open Source Projects
-  * 🤳 Social Media: [Twitter](https://www.instagram.com/danascript)
+  * 📖 &nbsp; Blog [Medium](https://hussnainfareed.medium.com/).
+  * 🤳 Social Media: [Twitter](https://twitter.com/codingducky)
 <br />
 
 <!-- ### Goals 2022:
