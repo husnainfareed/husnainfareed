@@ -8,7 +8,7 @@
 
   * 💻 &nbsp; Working as Full Stack Developer with focus on Frontend.
   * 💬 &nbsp; Current Stack `JS/TS, React, Next, GraphQL, Node, Firebase, MongoDB,  etc`.
-  * 📖 &nbsp; Blog [Medium](https://hussnainfareed.medium.com/).
+  * 📖 &nbsp; Blog: [Medium](https://hussnainfareed.medium.com/).
   * 🤳 Social Media: [Twitter](https://twitter.com/codingducky)
 <br />
 
