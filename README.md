@@ -9,7 +9,7 @@
   * 💻 &nbsp; Working as Full Stack Developer with focus on Frontend.
   * 💬 &nbsp; Current Stack `JS/TS, React, Next, Nodejs, Express, MongoDB, PostgreSQL`.
   * 📖 &nbsp; Blog: [Medium](https://hussnainfareed.medium.com/).
-  * 🤳 &nbsp; Social Media: [Twitter](https://twitter.com/codingducky)
+  * 🤳 &nbsp; Social Media: [Twitter](https://twitter.com/hassna1n)
 <br />
 
 <!-- ### Goals 2022:
