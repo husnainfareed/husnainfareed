@@ -1,12 +1,12 @@
 
-<h3 align="center"> Hey 👋 🍓 </h3>
+<h3 align="center"> Hi, 👋 🍓 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainfareed&label=Profile%20views&color=0e75b6&style=flat" alt="husnainfareed" /> </p>
 
 
 ## About Me:
 
-  * 💻 &nbsp; Working as Full Stack Developer with focus on Frontend.
+  * 💻 &nbsp; Working as a Full Stack Developer.
   * 💬 &nbsp; Current Stack `JS/TS, React, Next, Nodejs, Express, MongoDB, PostgreSQL`.
   * 📖 &nbsp; Blog: [Medium](https://hussnainfareed.medium.com/).
   * 🤳 &nbsp; Social Media: [Twitter](https://twitter.com/hassna1n)
