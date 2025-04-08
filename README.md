@@ -6,7 +6,7 @@
   * 💻 &nbsp; Working as a Full Stack Developer.
   * 💬 &nbsp; Current Stack `JS/TS, React, Nextjs, TailwindCSS, Nodejs, PostgreSQL`.
   * 📖 &nbsp; Blog: [Medium](https://hussnainfareed.medium.com/).
-  * 🤳 &nbsp; Connect: [Twitter](https://twitter.com/hassna1n)
+  * 🤳 &nbsp; Connect: [Twitter](https://twitter.com/huxna1n)
 <br />
 
 <!-- ### Goals 2022:
