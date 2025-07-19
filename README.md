@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainfareed&label=Profile%20views&color=0e75b6&style=flat" alt="husnainfareed" /> </p>
 
 
-## ⚡️ Here you can find a bit about me:
+## ⚡️ Hi
 
-https://husnainfareed.dev
+
 <!--
   * 💻 &nbsp; Working as a Full Stack Developer.
   * 💬 &nbsp; Current Stack `JS/TS, React, Nextjs, TailwindCSS, Nodejs, PostgreSQL`.
